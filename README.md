@@ -1,18 +1,14 @@
 <div align="center">
 
-# MD Shahinur Alam
+# Md Shahinur Alam
 
 ### Data Analytics · Business Intelligence · Data Visualization
 
 **Power BI · SQL · Excel · Python**
 
-<div align="center">
-
-<a href="https://www.shahinkhan.net">🌐 Portfolio</a> ·
-<a href="https://www.linkedin.com/in/shahin-in/">💼 LinkedIn</a> ·
-<a href="mailto:contact@shahinkhan.net">📧 Contact</a>
-
-</div>
+🌐 <a href="https://www.shahinkhan.net">Portfolio</a> ·
+💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
+📧 <a href="mailto:contact@shahinkhan.net">Contact</a>
 
 </div>
 
@@ -97,9 +93,9 @@ My goal is to combine my **Economics background, business experience, and techni
 
 ### Let's Connect
 
-🌐 **[shahinkhan.net](https://www.shahinkhan.net)**  
-💼 **[LinkedIn](https://www.linkedin.com/in/shahin-in/)**  
-📧 **[contact@shahinkhan.net](mailto:contact@shahinkhan.net)**
+🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a>  
+💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a>  
+📧 <a href="mailto:contact@shahinkhan.net">contact@shahinkhan.net</a>
 
 <br>
 
