@@ -1,4 +1,4 @@
-# MD Shahinur Alam
+# Md Shahinur Alam
 
 ### Data Analytics | Power BI | SQL | Excel | Python | Data Visualization
 
