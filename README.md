@@ -1,84 +1,104 @@
-# Md Shahinur Alam
+<div align="center">
 
-### Data Analytics | Power BI | SQL | Excel | Python | Data Visualization
+# MD Shahinur Alam
 
-I am an Economics professional transitioning into **Data Analytics and Business Intelligence**, with a background in business development, operations, administration, and client-facing roles.
+### Data Analytics · Business Intelligence · Data Visualization
 
-I am currently building practical expertise in **Power BI, SQL, Excel, and Python**, with a focus on transforming data into clear insights, meaningful visualizations, and business recommendations.
+**Power BI · SQL · Excel · Python**
 
----
+[🌐 Portfolio](https://www.shahinkhan.net) ·
+[💼 LinkedIn](https://www.linkedin.com/in/shahin-in/) ·
+[📧 Contact](mailto:contact@shahinkhan.net)
 
-## About Me
-
-- 📊 Building practical **Data Analytics & Business Intelligence** projects
-- 📈 Developing advanced skills in **Power BI, DAX, Power Query, and Data Modeling**
-- 🗄️ Learning and practicing **SQL** for data analysis
-- 🐍 Developing **Python** skills for data analysis and automation
-- 📗 Strengthening **Advanced Excel** and analytical reporting skills
-- 🎓 Background in **Economics**
-- 🌍 Multilingual: Bangla, English, Hindi, Urdu, and Spanish
-- 💼 Professional experience in **Business Development, Operations, Administration, and Client Service**
+</div>
 
 ---
 
-## Technical Skills
+## 👋 About Me
 
-### Data Analytics & BI
+I am an **Economics professional transitioning into Data Analytics and Business Intelligence**, combining a background in business development, operations, administration, and client service with developing technical expertise in data.
 
-- Microsoft Power BI
-- Data Analysis
-- Data Visualization
-- Dashboard Development
-- DAX
-- Power Query
-- Data Modeling
-- Data Reporting
-- Business Analysis
+My focus is on **turning data into clear insights, effective visualizations, and practical business recommendations**.
 
-### Data & Programming
-
-- SQL
-- Python
-- Microsoft Excel
-
-### Business & Professional
-
-- Business Development
-- Business Operations
-- Data Interpretation
-- Reporting
-- Project Coordination
-- Stakeholder Management
-- Document & Data Management
+🎓 **Economics** background  
+📊 Focused on **Data Analytics & Business Intelligence**  
+💼 Experience in **Business Development, Operations & Administration**  
+🌍 Multilingual: **Bangla · English · Hindi · Urdu · Spanish**
 
 ---
 
-## Featured Project
+## 🛠️ Technical Skills
 
-### 📊 Sales Performance Dashboard — Power BI
+### 📊 Data Analytics & Business Intelligence
 
-A complete Power BI analytics project built using the Superstore dataset.
+`Power BI` `Data Analysis` `Data Visualization`  
+`Dashboard Development` `DAX` `Power Query`  
+`Data Modeling` `Data Reporting` `Business Analysis`
 
-**Focus areas:**
+### 💻 Data & Programming
 
-- Data cleaning and preparation
-- Data modeling
-- DAX measures
-- KPI development
-- Sales and profitability analysis
-- Interactive dashboard design
-- Business insights
-- Data-driven recommendations
+`SQL` `Python` `Microsoft Excel`
 
-🔗 **Repository:**  
-https://github.com/shahinkhan-git/superstore-sales-dashboard
+### 💼 Business & Professional
+
+`Business Development` `Business Operations`  
+`Data Interpretation` `Project Coordination`  
+`Stakeholder Management` `Document & Data Management`
 
 ---
 
-## Currently Learning
+## ⭐ Featured Project
 
-```text
-SQL        ████████████████░░░░
-Python     ████████████░░░░░░░░
-Excel      ████████████████░░░░
-Power BI   █████████████████░░░
+### 📈 Sales Performance Dashboard — Power BI
+
+An end-to-end Power BI analytics project built using the **Superstore dataset**, focusing on sales performance, profitability, KPIs, and business insights.
+
+**Project includes:**
+
+| Area | Focus |
+|---|---|
+| 🧹 Data Preparation | Cleaning & transformation |
+| 🗂️ Data Modeling | Relationships & analytical structure |
+| 📐 DAX | Measures & calculated metrics |
+| 📊 Visualization | Interactive Power BI dashboard |
+| 💡 Insights | Sales & profitability analysis |
+| 🎯 Recommendations | Data-driven business actions |
+
+### 🔗 [View the Full Project →](https://www.shahinkhan.net/portfolio/sales-dashboard/)
+
+---
+
+## 📚 Currently Learning
+
+| Technology | Focus |
+|---|---|
+| **SQL** | Querying, joins, aggregations, CTEs & analytical functions |
+| **Python** | Programming fundamentals, pandas & data analysis |
+| **Excel** | Advanced analysis, Power Query & reporting |
+| **Power BI** | DAX, data modeling, Power Query & dashboard development |
+
+---
+
+## 🎯 Career Focus
+
+I am working toward opportunities in:
+
+**Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights**
+
+My goal is to combine my **Economics background, business experience, and technical data skills** to solve practical business problems and communicate insights effectively.
+
+---
+
+<div align="center">
+
+### Let's Connect
+
+🌐 **[shahinkhan.net](https://www.shahinkhan.net)**  
+💼 **[LinkedIn](https://www.linkedin.com/in/shahin-in/)**  
+📧 **[contact@shahinkhan.net](mailto:contact@shahinkhan.net)**
+
+<br>
+
+*Turning data into insights, and insights into better decisions.*
+
+</div>
