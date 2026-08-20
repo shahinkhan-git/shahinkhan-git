@@ -6,9 +6,13 @@
 
 **Power BI · SQL · Excel · Python**
 
-[🌐 Portfolio](https://www.shahinkhan.net) ·
-[💼 LinkedIn](https://www.linkedin.com/in/shahin-in/) ·
-[📧 Contact](mailto:contact@shahinkhan.net)
+<div align="center">
+
+<a href="https://www.shahinkhan.net">🌐 Portfolio</a> ·
+<a href="https://www.linkedin.com/in/shahin-in/">💼 LinkedIn</a> ·
+<a href="mailto:contact@shahinkhan.net">📧 Contact</a>
+
+</div>
 
 </div>
 
