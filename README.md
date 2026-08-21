@@ -4,7 +4,7 @@
 
 ### Data Analytics · Business Intelligence · Data Visualization
 
-**Power BI · SQL · Excel · Python**
+Power BI · SQL · Excel · Python
 
 🌐 <a href="https://www.shahinkhan.net">Portfolio</a> ·
 💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
@@ -16,14 +16,14 @@
 
 ## 👋 About Me
 
-I am an **Economics professional transitioning into Data Analytics and Business Intelligence**, combining a background in business development, operations, administration, and client service with developing technical expertise in data.
+I am an Economics professional transitioning into Data Analytics and Business Intelligence, combining a background in business development, operations, administration, and client service with developing technical expertise in data.
 
-My focus is on **turning data into clear insights, effective visualizations, and practical business recommendations**.
+My focus is on turning data into clear insights, effective visualizations, and practical business recommendations.
 
-🎓 **Economics** background  
-📊 Focused on **Data Analytics & Business Intelligence**  
-💼 Experience in **Business Development, Operations & Administration**  
-🌍 Multilingual: **Bangla · English · Hindi · Urdu · Spanish**
+🎓 Economics background  
+📊 Data Analytics & Business Intelligence  
+💼 Business Development, Operations & Administration  
+🌍 Bangla · English · Hindi · Urdu · Spanish
 
 ---
 
@@ -51,7 +51,7 @@ My focus is on **turning data into clear insights, effective visualizations, and
 
 ### 📈 Sales Performance Dashboard — Power BI
 
-An end-to-end Power BI analytics project built using the **Superstore dataset**, focusing on sales performance, profitability, KPIs, and business insights.
+An end-to-end Power BI analytics project built using the Superstore dataset, focusing on sales performance, profitability, KPIs, and business insights.
 
 **Project includes:**
 
@@ -72,10 +72,10 @@ An end-to-end Power BI analytics project built using the **Superstore dataset**,
 
 | Technology | Focus |
 |---|---|
-| **SQL** | Querying, joins, aggregations, CTEs & analytical functions |
-| **Python** | Programming fundamentals, pandas & data analysis |
-| **Excel** | Advanced analysis, Power Query & reporting |
-| **Power BI** | DAX, data modeling, Power Query & dashboard development |
+| SQL | Querying, joins, aggregations, CTEs & analytical functions |
+| Python | Programming fundamentals, pandas & data analysis |
+| Excel | Advanced analysis, Power Query & reporting |
+| Power BI | DAX, data modeling, Power Query & dashboard development |
 
 ---
 
@@ -83,9 +83,9 @@ An end-to-end Power BI analytics project built using the **Superstore dataset**,
 
 I am working toward opportunities in:
 
-**Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights**
+Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights
 
-My goal is to combine my **Economics background, business experience, and technical data skills** to solve practical business problems and communicate insights effectively.
+My goal is to combine my Economics background, business experience, and technical data skills to solve practical business problems and communicate insights effectively.
 
 ---
 
