@@ -4,7 +4,7 @@
 
 ### Data Analytics · Business Intelligence · Data Visualization
 
-Power BI · SQL · Excel · Python
+**Power BI · SQL · Excel · Python**
 
 🌐 <a href="https://www.shahinkhan.net">Portfolio</a> ·
 💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
@@ -16,14 +16,16 @@ Power BI · SQL · Excel · Python
 
 ## 👋 About Me
 
-I am an Economics professional transitioning into Data Analytics and Business Intelligence, combining a background in business development, operations, administration, and client service with developing technical expertise in data.
+Economics professional transitioning into **Data Analytics and Business Intelligence**, with experience across business development, operations, administration, and client service.
 
-My focus is on turning data into clear insights, effective visualizations, and practical business recommendations.
+I focus on **turning data into clear insights, effective visualizations, and practical business recommendations**.
 
-🎓 Economics background  
-📊 Data Analytics & Business Intelligence  
-💼 Business Development, Operations & Administration  
-🌍 Bangla · English · Hindi · Urdu · Spanish
+| | |
+|---|---|
+| 🎓 | Economics background |
+| 📊 | Data Analytics & Business Intelligence |
+| 💼 | Business Development & Operations |
+| 🌍 | Bangla · English · Hindi · Urdu · Spanish |
 
 ---
 
@@ -31,19 +33,19 @@ My focus is on turning data into clear insights, effective visualizations, and p
 
 ### 📊 Data Analytics & Business Intelligence
 
-`Power BI` `Data Analysis` `Data Visualization`  
-`Dashboard Development` `DAX` `Power Query`  
-`Data Modeling` `Data Reporting` `Business Analysis`
+`Power BI` · `DAX` · `Power Query` · `Data Modeling`  
+`Data Analysis` · `Data Visualization` · `Dashboard Development`  
+`Business Analysis` · `Reporting`
 
 ### 💻 Data & Programming
 
-`SQL` `Python` `Microsoft Excel`
+`SQL` · `Python` · `Microsoft Excel`
 
 ### 💼 Business & Professional
 
-`Business Development` `Business Operations`  
-`Data Interpretation` `Project Coordination`  
-`Stakeholder Management` `Document & Data Management`
+`Business Development` · `Business Operations`  
+`Project Coordination` · `Stakeholder Management`  
+`Data Interpretation` · `Document & Data Management`
 
 ---
 
@@ -51,20 +53,18 @@ My focus is on turning data into clear insights, effective visualizations, and p
 
 ### 📈 Sales Performance Dashboard — Power BI
 
-An end-to-end Power BI analytics project built using the Superstore dataset, focusing on sales performance, profitability, KPIs, and business insights.
-
-**Project includes:**
+An end-to-end analytics project using the **Superstore dataset** to analyze sales performance, profitability, KPIs, and business trends.
 
 | Area | Focus |
 |---|---|
 | 🧹 Data Preparation | Cleaning & transformation |
 | 🗂️ Data Modeling | Relationships & analytical structure |
 | 📐 DAX | Measures & calculated metrics |
-| 📊 Visualization | Interactive Power BI dashboard |
+| 📊 Visualization | Interactive dashboard |
 | 💡 Insights | Sales & profitability analysis |
 | 🎯 Recommendations | Data-driven business actions |
 
-### 🔗 [View the Full Project](https://www.shahinkhan.net/portfolio/sales-dashboard/)
+### 🔗 [View the Full Project →](https://www.shahinkhan.net/portfolio/sales-dashboard/)
 
 ---
 
@@ -72,20 +72,18 @@ An end-to-end Power BI analytics project built using the Superstore dataset, foc
 
 | Technology | Focus |
 |---|---|
-| SQL | Querying, joins, aggregations, CTEs & analytical functions |
-| Python | Programming fundamentals, pandas & data analysis |
-| Excel | Advanced analysis, Power Query & reporting |
-| Power BI | DAX, data modeling, Power Query & dashboard development |
+| **SQL** | Queries · joins · aggregations · CTEs · analytical functions |
+| **Python** | Fundamentals · pandas · data analysis |
+| **Excel** | Advanced analysis · Power Query · reporting |
+| **Power BI** | DAX · modeling · Power Query · dashboards |
 
 ---
 
 ## 🎯 Career Focus
 
-I am working toward opportunities in:
+**Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights**
 
-Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights
-
-My goal is to combine my Economics background, business experience, and technical data skills to solve practical business problems and communicate insights effectively.
+Combining my **Economics background**, business experience, and technical data skills to solve practical business problems and communicate insights effectively.
 
 ---
 
@@ -93,8 +91,8 @@ My goal is to combine my Economics background, business experience, and technica
 
 ### Let's Connect
 
-🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a>  
-💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a>  
+🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a> ·
+💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
 📧 <a href="mailto:contact@shahinkhan.net">contact@shahinkhan.net</a>
 
 <br>
