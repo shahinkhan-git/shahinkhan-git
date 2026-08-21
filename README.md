@@ -6,9 +6,9 @@
 
 **Power BI · SQL · Excel · Python**
 
-🌐 <a href="https://www.shahinkhan.net" target="_blank" rel="noopener noreferrer">Portfolio</a> ·
-💼 <a href="https://www.linkedin.com/in/shahin-in/" target="_blank" rel="noopener noreferrer">LinkedIn</a> ·
-📧 <a href="mailto:contact@shahinkhan.net" target="_blank" rel="noopener noreferrer">Contact</a>
+🌐 <a href="https://www.shahinkhan.net">Portfolio</a> ·
+💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
+📧 <a href="mailto:contact@shahinkhan.net">Contact</a>
 
 </div>
 
@@ -64,7 +64,7 @@ An end-to-end Power BI analytics project built using the **Superstore dataset**,
 | 💡 Insights | Sales & profitability analysis |
 | 🎯 Recommendations | Data-driven business actions |
 
-### 🔗 <a href="https://www.shahinkhan.net/portfolio/sales-dashboard/" target="_blank" rel="noopener noreferrer">View the Full Project</a>
+### 🔗 [View the Full Project](https://www.shahinkhan.net/portfolio/sales-dashboard/)
 
 ---
 
@@ -93,9 +93,9 @@ My goal is to combine my **Economics background, business experience, and techni
 
 ### Let's Connect
 
-🌐 <a href="https://www.shahinkhan.net" target="_blank" rel="noopener noreferrer">shahinkhan.net</a>  
-💼 <a href="https://www.linkedin.com/in/shahin-in/" target="_blank" rel="noopener noreferrer">LinkedIn</a>  
-📧 <a href="mailto:contact@shahinkhan.net" target="_blank" rel="noopener noreferrer">contact@shahinkhan.net</a>
+🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a>  
+💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a>  
+📧 <a href="mailto:contact@shahinkhan.net">contact@shahinkhan.net</a>
 
 <br>
 
