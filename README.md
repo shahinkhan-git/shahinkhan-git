@@ -20,12 +20,10 @@ Economics professional transitioning into **Data Analytics and Business Intellig
 
 I focus on **turning data into clear insights, effective visualizations, and practical business recommendations**.
 
-| | |
-|---|---|
-| 🎓 | Economics background |
-| 📊 | Data Analytics & Business Intelligence |
-| 💼 | Business Development & Operations |
-| 🌍 | Bangla · English · Hindi · Urdu · Spanish |
+🎓 Economics background
+📊 Data Analytics & Business Intelligence
+💼 Business Development & Operations
+🌍 Bangla · English · Hindi · Urdu · Spanish
 
 ---
 
@@ -33,8 +31,8 @@ I focus on **turning data into clear insights, effective visualizations, and pra
 
 ### 📊 Data Analytics & Business Intelligence
 
-`Power BI` · `DAX` · `Power Query` · `Data Modeling`  
-`Data Analysis` · `Data Visualization` · `Dashboard Development`  
+`Power BI` · `DAX` · `Power Query` · `Data Modeling`
+`Data Analysis` · `Data Visualization` · `Dashboard Development`
 `Business Analysis` · `Reporting`
 
 ### 💻 Data & Programming
@@ -43,8 +41,8 @@ I focus on **turning data into clear insights, effective visualizations, and pra
 
 ### 💼 Business & Professional
 
-`Business Development` · `Business Operations`  
-`Project Coordination` · `Stakeholder Management`  
+`Business Development` · `Business Operations`
+`Project Coordination` · `Stakeholder Management`
 `Data Interpretation` · `Document & Data Management`
 
 ---
@@ -55,14 +53,14 @@ I focus on **turning data into clear insights, effective visualizations, and pra
 
 An end-to-end analytics project using the **Superstore dataset** to analyze sales performance, profitability, KPIs, and business trends.
 
-| Area | Focus |
-|---|---|
-| 🧹 Data Preparation | Cleaning & transformation |
-| 🗂️ Data Modeling | Relationships & analytical structure |
-| 📐 DAX | Measures & calculated metrics |
-| 📊 Visualization | Interactive dashboard |
-| 💡 Insights | Sales & profitability analysis |
-| 🎯 Recommendations | Data-driven business actions |
+| Area                | Focus                                |
+| ------------------- | ------------------------------------ |
+| 🧹 Data Preparation | Cleaning & transformation            |
+| 🗂️ Data Modeling   | Relationships & analytical structure |
+| 📐 DAX              | Measures & calculated metrics        |
+| 📊 Visualization    | Interactive dashboard                |
+| 💡 Insights         | Sales & profitability analysis       |
+| 🎯 Recommendations  | Data-driven business actions         |
 
 ### 🔗 [View the Full Project →](https://www.shahinkhan.net/portfolio/sales-dashboard/)
 
@@ -70,12 +68,12 @@ An end-to-end analytics project using the **Superstore dataset** to analyze sale
 
 ## 📚 Currently Learning
 
-| Technology | Focus |
-|---|---|
-| **SQL** | Queries · joins · aggregations · CTEs · analytical functions |
-| **Python** | Fundamentals · pandas · data analysis |
-| **Excel** | Advanced analysis · Power Query · reporting |
-| **Power BI** | DAX · modeling · Power Query · dashboards |
+| Technology   | Focus                                                        |
+| ------------ | ------------------------------------------------------------ |
+| **SQL**      | Queries · joins · aggregations · CTEs · analytical functions |
+| **Python**   | Fundamentals · pandas · data analysis                        |
+| **Excel**    | Advanced analysis · Power Query · reporting                  |
+| **Power BI** | DAX · modeling · Power Query · dashboards                    |
 
 ---
 
@@ -93,7 +91,7 @@ Combining my **Economics background**, business experience, and technical data s
 
 🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a> ·
 💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
-📧 <a href="mailto:contact@shahinkhan.net">contact@shahinkhan.net</a>
+📧 <a href="mailto:contact@shahinkhan.net">[contact@shahinkhan.net](mailto:contact@shahinkhan.net)</a>
 
 <br>
 
