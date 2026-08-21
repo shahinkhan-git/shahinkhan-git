@@ -4,11 +4,13 @@
 
 ### Data Analytics · Business Intelligence · Data Visualization
 
-**Power BI · SQL · Excel · Python**
+Power BI · SQL · Excel · Python
 
-🌐 <a href="https://www.shahinkhan.net">Portfolio</a> ·
-💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
-📧 <a href="mailto:contact@shahinkhan.net">Contact</a>
+<br>
+
+<a href="https://www.shahinkhan.net">🌐 Portfolio</a>
+  ·   <a href="https://www.linkedin.com/in/shahin-in/">💼 LinkedIn</a>
+  ·   <a href="mailto:contact@shahinkhan.net">📧 Contact</a>
 
 </div>
 
@@ -16,13 +18,15 @@
 
 ## 👋 About Me
 
-Economics professional transitioning into **Data Analytics and Business Intelligence**, with experience across business development, operations, administration, and client service.
+I am an Economics professional transitioning into **Data Analytics and Business Intelligence**, bringing experience in business development, operations, administration, and client service.
 
-I focus on **turning data into clear insights, effective visualizations, and practical business recommendations**.
+I enjoy turning data into **clear insights, meaningful visualizations, and practical business recommendations**.
 
-🎓 Economics background
-📊 Data Analytics & Business Intelligence
-💼 Business Development & Operations
+**Background**
+
+🎓 Economics<br>
+💼 Business Development · Operations · Administration<br>
+📊 Data Analytics · Business Intelligence<br>
 🌍 Bangla · English · Hindi · Urdu · Spanish
 
 ---
@@ -31,19 +35,19 @@ I focus on **turning data into clear insights, effective visualizations, and pra
 
 ### 📊 Data Analytics & Business Intelligence
 
-`Power BI` · `DAX` · `Power Query` · `Data Modeling`
-`Data Analysis` · `Data Visualization` · `Dashboard Development`
-`Business Analysis` · `Reporting`
+`Power BI` `DAX` `Power Query` `Data Modeling`<br>
+`Data Analysis` `Data Visualization` `Dashboard Development`<br>
+`Business Analysis` `Reporting`
 
 ### 💻 Data & Programming
 
-`SQL` · `Python` · `Microsoft Excel`
+`SQL` `Python` `Microsoft Excel`
 
 ### 💼 Business & Professional
 
-`Business Development` · `Business Operations`
-`Project Coordination` · `Stakeholder Management`
-`Data Interpretation` · `Document & Data Management`
+`Business Development` `Business Operations`<br>
+`Project Coordination` `Stakeholder Management`<br>
+`Data Interpretation` `Document & Data Management`
 
 ---
 
@@ -51,29 +55,48 @@ I focus on **turning data into clear insights, effective visualizations, and pra
 
 ### 📈 Sales Performance Dashboard — Power BI
 
-An end-to-end analytics project using the **Superstore dataset** to analyze sales performance, profitability, KPIs, and business trends.
+An end-to-end Power BI analytics project built using the **Superstore dataset** to evaluate sales performance, profitability, regional trends, product performance, and key business metrics.
 
-| Area                | Focus                                |
-| ------------------- | ------------------------------------ |
-| 🧹 Data Preparation | Cleaning & transformation            |
-| 🗂️ Data Modeling   | Relationships & analytical structure |
-| 📐 DAX              | Measures & calculated metrics        |
-| 📊 Visualization    | Interactive dashboard                |
-| 💡 Insights         | Sales & profitability analysis       |
-| 🎯 Recommendations  | Data-driven business actions         |
+**Project highlights**
 
-### 🔗 [View the Full Project →](https://www.shahinkhan.net/portfolio/sales-dashboard/)
+| Area                    | Focus                                  |
+| ----------------------- | -------------------------------------- |
+| 🧹 **Data Preparation** | Cleaning and transformation            |
+| 🗂️ **Data Modeling**   | Relationships and analytical structure |
+| 📐 **DAX**              | Measures and calculated metrics        |
+| 📊 **Visualization**    | Interactive Power BI dashboard         |
+| 💡 **Insights**         | Sales and profitability analysis       |
+| 🎯 **Recommendations**  | Data-driven business actions           |
+
+<br>
+
+<a href="https://www.shahinkhan.net/portfolio/sales-dashboard/">
+
+### 🔗 View the Full Project →
+
+</a>
 
 ---
 
 ## 📚 Currently Learning
 
-| Technology   | Focus                                                        |
-| ------------ | ------------------------------------------------------------ |
-| **SQL**      | Queries · joins · aggregations · CTEs · analytical functions |
-| **Python**   | Fundamentals · pandas · data analysis                        |
-| **Excel**    | Advanced analysis · Power Query · reporting                  |
-| **Power BI** | DAX · modeling · Power Query · dashboards                    |
+**SQL**<br>
+Querying · Joins · Aggregations · CTEs · Analytical Functions
+
+<br>
+
+**Python**<br>
+Programming Fundamentals · Pandas · Data Analysis
+
+<br>
+
+**Excel**<br>
+Advanced Analysis · Power Query · Reporting
+
+<br>
+
+**Power BI**<br>
+DAX · Data Modeling · Power Query · Dashboard Development
 
 ---
 
@@ -81,7 +104,7 @@ An end-to-end analytics project using the **Superstore dataset** to analyze sale
 
 **Data Analytics · Business Intelligence · Data Visualization · Reporting & Insights**
 
-Combining my **Economics background**, business experience, and technical data skills to solve practical business problems and communicate insights effectively.
+I am working toward opportunities where I can combine my **Economics background, business experience, and technical data skills** to solve practical business problems and communicate insights effectively.
 
 ---
 
@@ -89,12 +112,12 @@ Combining my **Economics background**, business experience, and technical data s
 
 ### Let's Connect
 
-🌐 <a href="https://www.shahinkhan.net">shahinkhan.net</a> ·
-💼 <a href="https://www.linkedin.com/in/shahin-in/">LinkedIn</a> ·
-📧 <a href="mailto:contact@shahinkhan.net">[contact@shahinkhan.net](mailto:contact@shahinkhan.net)</a>
+<a href="https://www.shahinkhan.net">🌐 shahinkhan.net</a>
+  ·   <a href="https://www.linkedin.com/in/shahin-in/">💼 LinkedIn</a>
+  ·   <a href="mailto:contact@shahinkhan.net">📧 [contact@shahinkhan.net](mailto:contact@shahinkhan.net)</a>
 
-<br>
+<br><br>
 
-*Turning data into insights, and insights into better decisions.*
+<em>Turning data into insights, and insights into better decisions.</em>
 
 </div>
